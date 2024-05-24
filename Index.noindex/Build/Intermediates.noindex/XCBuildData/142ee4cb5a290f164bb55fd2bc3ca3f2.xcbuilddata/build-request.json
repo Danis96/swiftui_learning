@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "4892bbcbda40ece752de8e9e72068be4ec60152f444af91d516286a665a35059"
+    },
+    {
+      "guid" : "4892bbcbda40ece752de8e9e72068be4633f20cc229a027213544c085805d0f2"
+    },
+    {
+      "guid" : "4892bbcbda40ece752de8e9e72068be450d20f35a9d2a85790428e063a8602d9"
+    }
+  ],
+  "containerPath" : "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Products",
+      "pchPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

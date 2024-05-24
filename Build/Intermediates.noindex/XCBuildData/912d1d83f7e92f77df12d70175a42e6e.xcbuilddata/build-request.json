@@ -1,0 +1,109 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "4892bbcbda40ece752de8e9e72068be4ec60152f444af91d516286a665a35059",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Products",
+          "derivedDataPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/ProfileData",
+              "DSTROOT" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Intermediates.noindex",
+              "SYMROOT" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "228FF955-A7BC-416F-8411-89D562EDA5BF",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Products",
+      "derivedDataPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "228FF955-A7BC-416F-8411-89D562EDA5BF",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

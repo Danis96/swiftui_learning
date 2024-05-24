@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnboardingViews/Intro.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Profile View"
+      },
+      {
+        "comment": "",
+        "key": "Onboarding View"
+      }
+    ]
+  },
+  "version": 1
+}

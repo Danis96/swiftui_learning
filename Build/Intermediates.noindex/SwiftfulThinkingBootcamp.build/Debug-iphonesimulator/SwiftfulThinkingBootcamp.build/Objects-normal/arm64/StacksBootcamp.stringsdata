@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StacksBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "5"
+      },
+      {
+        "comment": "",
+        "key": "Number of items in your stack"
+      }
+    ]
+  },
+  "version": 1
+}

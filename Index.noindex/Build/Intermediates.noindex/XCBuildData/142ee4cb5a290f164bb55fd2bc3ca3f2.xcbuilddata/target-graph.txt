@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'SwiftfulThinkingBootcampUITests' in project 'SwiftfulThinkingBootcamp' (no dependencies)
+Target 'SwiftfulThinkingBootcampUITests' in project 'SwiftfulThinkingBootcamp'
+➜ Explicit dependency on target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp'
+Target 'SwiftfulThinkingBootcampUITests' in project 'SwiftfulThinkingBootcamp'
+➜ Explicit dependency on target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp'
+Target 'SwiftfulThinkingBootcampTests' in project 'SwiftfulThinkingBootcamp' (no dependencies)
+Target 'SwiftfulThinkingBootcampTests' in project 'SwiftfulThinkingBootcamp'
+➜ Explicit dependency on target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp'
+Target 'SwiftfulThinkingBootcampTests' in project 'SwiftfulThinkingBootcamp'
+➜ Explicit dependency on target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp'
+Target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp' (no dependencies)
+Target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp' (no dependencies)

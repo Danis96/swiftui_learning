@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StepperBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Height: "
+      },
+      {
+        "comment": "",
+        "key": "Width: "
+      }
+    ]
+  },
+  "version": 1
+}

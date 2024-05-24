@@ -1,0 +1,40 @@
+{
+  "source": "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/arm64/AlertBootcamp.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Error title"
+      },
+      {
+        "comment": "",
+        "key": "Error Message"
+      },
+      {
+        "comment": "",
+        "key": "Ok"
+      },
+      {
+        "comment": "",
+        "key": "DELETE"
+      },
+      {
+        "comment": "",
+        "key": "Success title"
+      },
+      {
+        "comment": "",
+        "key": "Success Message"
+      },
+      {
+        "comment": "",
+        "key": "Button 1"
+      },
+      {
+        "comment": "",
+        "key": "Button 2"
+      }
+    ]
+  },
+  "version": 1
+}

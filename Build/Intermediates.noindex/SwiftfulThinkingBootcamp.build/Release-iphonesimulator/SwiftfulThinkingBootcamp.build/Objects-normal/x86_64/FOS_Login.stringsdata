@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/FOS_Login.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ste nov uporabnik?"
+      },
+      {
+        "comment": "",
+        "key": "Registriraj se"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DatePickerBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Selected date is"
+      },
+      {
+        "comment": "",
+        "key": "Select Date"
+      }
+    ]
+  },
+  "version": 1
+}

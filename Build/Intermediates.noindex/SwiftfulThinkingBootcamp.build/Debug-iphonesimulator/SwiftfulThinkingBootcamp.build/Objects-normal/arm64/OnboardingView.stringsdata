@@ -1,0 +1,52 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnboardingViews/OnboardingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Find your match"
+      },
+      {
+        "comment": "",
+        "key": "This is the number 1 app for finding your match online. In this tutorial we are practicing AppStorage and other SWIFTUI techniques."
+      },
+      {
+        "comment": "",
+        "key": "Add your name"
+      },
+      {
+        "comment": "",
+        "key": "Add your name here..."
+      },
+      {
+        "comment": "",
+        "key": "Add your age"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      },
+      {
+        "comment": "",
+        "key": "Select your gender"
+      },
+      {
+        "comment": "",
+        "key": "Male"
+      },
+      {
+        "comment": "",
+        "key": "Female"
+      },
+      {
+        "comment": "",
+        "key": "Non-Binary"
+      },
+      {
+        "comment": "",
+        "key": "Select gender"
+      }
+    ]
+  },
+  "version": 1
+}

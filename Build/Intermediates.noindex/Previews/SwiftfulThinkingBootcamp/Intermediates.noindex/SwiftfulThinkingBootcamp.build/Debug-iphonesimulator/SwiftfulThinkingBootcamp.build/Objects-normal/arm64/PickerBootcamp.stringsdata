@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/PickerBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Picker"
+      },
+      {
+        "comment": "",
+        "key": "Age:"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      }
+    ]
+  },
+  "version": 1
+}

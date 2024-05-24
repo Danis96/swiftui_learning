@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ButtonBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Button please press"
+      },
+      {
+        "comment": "",
+        "key": "Button 2"
+      },
+      {
+        "comment": "",
+        "key": "Finish"
+      }
+    ]
+  },
+  "version": 1
+}

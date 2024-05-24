@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StateBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Count: %lld"
+      },
+      {
+        "comment": "",
+        "key": "BUTTON 1"
+      },
+      {
+        "comment": "",
+        "key": "BUTTON 2"
+      }
+    ]
+  },
+  "version": 1
+}

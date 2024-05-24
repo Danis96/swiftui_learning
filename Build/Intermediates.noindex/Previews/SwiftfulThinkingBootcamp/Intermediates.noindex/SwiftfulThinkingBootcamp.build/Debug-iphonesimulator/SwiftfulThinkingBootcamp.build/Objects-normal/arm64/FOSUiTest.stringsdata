@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/FOSUiTest.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Aplikacija za šest-minutni test hoje je bila razvita v sklopu ciljnega raziskovalnega projekta Vrednotenje in spremljanje telesne dejavnosti v Sloveniji (V5-2101), ki so ga finančno omogočilu Ministrstvo za izobraževanje, znanost in šport Republike Slovenije ter Javna agencija za znanstvenoraziskovalno in inovacijsko dejavnost Republike Slovenije."
+      },
+      {
+        "comment": "",
+        "key": "Zacni"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FocusStateBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add your username here..."
+      },
+      {
+        "comment": "",
+        "key": "Add your password here..."
+      },
+      {
+        "comment": "",
+        "key": "SIGN UP 🐲"
+      }
+    ]
+  },
+  "version": 1
+}

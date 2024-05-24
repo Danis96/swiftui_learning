@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/arm64/PickerBootcamp.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Picker"
+      },
+      {
+        "comment": "",
+        "key": "Age:"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      }
+    ]
+  },
+  "version": 1
+}

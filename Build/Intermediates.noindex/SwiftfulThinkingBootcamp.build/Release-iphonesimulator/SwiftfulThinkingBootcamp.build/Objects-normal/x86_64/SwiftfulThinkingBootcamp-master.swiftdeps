@@ -1,0 +1,85 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "562cac3a3cda95fab156368f34e60c375fba73dbf7ae95cdec7332fd574f7073"
+build_start_time: [1715803591, 369083000]
+build_end_time: [1715803594, 447523000]
+inputs:
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/FOS_Login.swift": !dirty [1714072793, 366152601]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/FOS_welcome.swift": !dirty [1714072910, 794294696]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/Reusable/FOS_BackgroundView.swift": !dirty [1713993971, 181215628]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/Reusable/FOS_TextField.swift": !dirty [1714071962, 464365063]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/Reusable/FOS_button.swift": !dirty [1714072750, 992684144]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ActionSheetBootcamp.swift"
+  : !dirty [1713903508, 770697371]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/AlertBootcamp.swift": !dirty [1713903191, 971179623]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/AnimationCrveBootcamp.swift"
+  : !dirty [1713787477, 65878288]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/AppStorageBootcamp.swift"
+  : !dirty [1715633053, 540412138]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/BackgroundAndOverlayBootcamp.swift"
+  : !dirty [1713351687, 385858359]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/BindingBootcamp.swift"
+  : !dirty [1713613827, 895574999]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ButtonBootcamp.swift": !dirty [1713514635, 854148007]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ColorPickerBootcamp.swift"
+  : !dirty [1714076719, 188303759]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ConditionalsBootcamp.swift"
+  : !dirty [1713786824, 358598427]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ContentView.swift": !dirty [1712308627, 531767324]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ContextMenuBootcamp.swift"
+  : !dirty [1713910094, 693178674]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DarkModeBootcamp.swift"
+  : !dirty [1714242450, 49943072]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DatePickerBootcamp.swift"
+  : !dirty [1714211067, 329774115]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/EnvironmentObjectBootcamp.swift"
+  : !dirty [1714939339, 44978783]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ForEachBootcamp.swift"
+  : !dirty [1713437649, 616306549]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FrameBootcamp.swift": !dirty [1713251951, 276335931]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/GridBootcamp.swift": !dirty [1713512635, 17713675]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/IconBootcamp.swift": !dirty [1713249535, 259160382]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/IfLetGuardBootcamp.swift"
+  : !dirty [1714849169, 278926599]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ImageBootcamp.swift": !dirty [1713251169, 657131451]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/InitAndEnumsBootcamp.swift"
+  : !dirty [1713430754, 817361142]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ListBootcamp.swift": !dirty [1713862045, 88367792]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ModelBootcamp.swift": !dirty [1714925339, 719169876]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift"
+  : !dirty [1713804042, 281351848]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnAppearBootcamp.swift"
+  : !dirty [1714847860, 534841350]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnboardingViews/Intro.swift"
+  : !dirty [1715802871, 347833048]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnboardingViews/OnboardingView.swift"
+  : !dirty [1715803585, 976041242]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/PaddingBootcamp.swift"
+  : !dirty [1713429296, 231002864]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/PickerBootcamp.swift": !dirty [1714076299, 388923463]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SafeAreaBootcamp.swift"
+  : !dirty [1713690932, 661926931]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ScrollViewBootcamp.swift"
+  : !dirty [1713475035, 412283045]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/Section1.swift": !dirty [1713479498, 562552020]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ShapesBootcamp.swift": !dirty [1712988626, 906908696]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SheetsBootcamp.swift": !dirty [1713789198, 290259339]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SliderBootcamp.swift": !dirty [1714213299, 597751954]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StacksBootcamp.swift": !dirty [1714072413, 808968760]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StateBootcamp.swift": !dirty [1713523628, 645475491]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StepperBootcamp.swift"
+  : !dirty [1714212044, 607302341]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcampApp.swift"
+  : !dirty [1715633207, 242365423]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TabViewBootcamp.swift"
+  : !dirty [1714215793, 860429213]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TapGestureBootcamp.swift"
+  : !dirty [1714926991, 388590462]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextBootcamp.swift": !dirty [1712925906, 964971889]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextFieldBootcamp.swift"
+  : !dirty [1713911545, 215864689]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TransitionsBootcamp.swift"
+  : !dirty [1713788147, 419933619]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ViewModelBootcamp.swift"
+  : !dirty [1715632034, 975874087]
+  ? "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1715803591, 348397814]

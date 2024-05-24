@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "d84908253dbb8bc2ee5a62979374ff561817fda37d9c4f9dee1ec1117f2aced4"
+build_start_time: [1713349128, 292417000]
+build_end_time: [1713349128, 298220000]
+inputs:
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/BackgroundAndOverlayBootcamp.swift"
+  : !dirty [1713279907, 762727315]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ContentView.swift": !dirty [1712308627, 531767324]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FrameBootcamp.swift": !dirty [1713251951, 276335931]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/IconBootcamp.swift": !dirty [1713249535, 259160382]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ImageBootcamp.swift": !dirty [1713251169, 657131451]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ShapesBootcamp.swift": !dirty [1712988626, 906908696]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StacksBootcamp.swift": !dirty [1713281269, 804502920]
+  ? "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcampApp.swift"
+  : !dirty [1712308156, 306504253]
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextBootcamp.swift": !dirty [1712925906, 964971889]
+  ? "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcamp.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1713254984, 690622714]

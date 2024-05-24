@@ -1,0 +1,40 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DarkModeBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Dark Mode Bootcamp"
+      },
+      {
+        "comment": "",
+        "key": "This is primary"
+      },
+      {
+        "comment": "",
+        "key": "This is secondary"
+      },
+      {
+        "comment": "",
+        "key": "This is black"
+      },
+      {
+        "comment": "",
+        "key": "This is white"
+      },
+      {
+        "comment": "",
+        "key": "This is red"
+      },
+      {
+        "comment": "",
+        "key": "This is adaptove color"
+      },
+      {
+        "comment": "",
+        "key": "Button"
+      }
+    ]
+  },
+  "version": 1
+}

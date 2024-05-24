@@ -1,0 +1,265 @@
+{
+  "" : {
+    "const-values" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcamp-master.swiftconstvalues",
+    "dependencies" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcamp-master.d",
+    "diagnostics" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcamp-master.dia",
+    "emit-module-dependencies" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcamp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcamp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcamp-master.swiftdeps"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/FOS_Login.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_Login.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_Login.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_Login.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/FOS_welcome.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_welcome.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_welcome.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_welcome.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/Reusable/FOS_BackgroundView.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_BackgroundView.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_BackgroundView.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_BackgroundView.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/Reusable/FOS_button.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_button.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_button.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_button.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FOS-IOS/Reusable/FOS_TextField.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_TextField.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_TextField.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FOS_TextField.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ActionSheetBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ActionSheetBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ActionSheetBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ActionSheetBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/AlertBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AlertBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AlertBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AlertBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/AnimationCrveBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AnimationCrveBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AnimationCrveBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AnimationCrveBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/AppStorageBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AppStorageBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AppStorageBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/AppStorageBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/BackgroundAndOverlayBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/BackgroundAndOverlayBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/BackgroundAndOverlayBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/BackgroundAndOverlayBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/BindingBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/BindingBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/BindingBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/BindingBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ButtonBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ButtonBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ButtonBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ButtonBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ColorPickerBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ColorPickerBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ColorPickerBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ColorPickerBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ConditionalsBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ConditionalsBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ConditionalsBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ConditionalsBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ContentView.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ContentView.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ContextMenuBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ContextMenuBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ContextMenuBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ContextMenuBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DarkModeBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/DarkModeBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/DarkModeBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/DarkModeBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/DatePickerBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/DatePickerBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/DatePickerBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/DatePickerBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/EnvironmentObjectBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/EnvironmentObjectBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/EnvironmentObjectBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/EnvironmentObjectBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ForEachBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ForEachBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ForEachBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ForEachBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/FrameBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FrameBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FrameBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/FrameBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/GridBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/GridBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/GridBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/GridBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/IconBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/IconBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/IconBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/IconBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/IfLetGuardBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/IfLetGuardBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/IfLetGuardBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/IfLetGuardBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ImageBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ImageBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ImageBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ImageBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/InitAndEnumsBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/InitAndEnumsBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/InitAndEnumsBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/InitAndEnumsBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ListBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ListBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ListBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ListBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ModelBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ModelBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ModelBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ModelBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/NavigationViewBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/NavigationViewBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/NavigationViewBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnAppearBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/OnAppearBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/OnAppearBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/OnAppearBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnboardingViews/Intro.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/Intro.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/Intro.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/Intro.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnboardingViews/OnboardingView.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/OnboardingView.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/OnboardingView.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/OnboardingView.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/PaddingBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/PaddingBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/PaddingBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/PaddingBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/PickerBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/PickerBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/PickerBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/PickerBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SafeAreaBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SafeAreaBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SafeAreaBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SafeAreaBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ScrollViewBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ScrollViewBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ScrollViewBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ScrollViewBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/Section1.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/Section1.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/Section1.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/Section1.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ShapesBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ShapesBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ShapesBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ShapesBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SheetsBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SheetsBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SheetsBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SheetsBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SliderBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SliderBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SliderBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SliderBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StacksBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StacksBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StacksBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StacksBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StateBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StateBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StateBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StateBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/StepperBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StepperBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StepperBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/StepperBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcampApp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcampApp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcampApp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/SwiftfulThinkingBootcampApp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TabViewBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TabViewBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TabViewBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TabViewBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TapGestureBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TapGestureBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TapGestureBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TapGestureBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TextBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TextBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TextBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextFieldBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TextFieldBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TextFieldBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TextFieldBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TransitionsBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TransitionsBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TransitionsBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/TransitionsBootcamp.o"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ViewModelBootcamp.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ViewModelBootcamp.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ViewModelBootcamp.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/ViewModelBootcamp.o"
+  },
+  "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Release-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  }
+}

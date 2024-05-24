@@ -1,0 +1,28 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TabViewBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tab Content 1"
+      },
+      {
+        "comment": "",
+        "key": "Tab Content 2"
+      },
+      {
+        "comment": "",
+        "key": "Tab Label 1"
+      },
+      {
+        "comment": "",
+        "key": "Tab Label 2"
+      },
+      {
+        "comment": "",
+        "key": "Home View"
+      }
+    ]
+  },
+  "version": 1
+}

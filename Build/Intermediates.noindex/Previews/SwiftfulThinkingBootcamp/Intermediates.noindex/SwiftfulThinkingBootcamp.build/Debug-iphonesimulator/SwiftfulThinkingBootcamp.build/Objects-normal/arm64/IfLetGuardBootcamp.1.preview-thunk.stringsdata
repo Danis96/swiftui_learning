@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/arm64/IfLetGuardBootcamp.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Safe coding"
+      },
+      {
+        "comment": "",
+        "key": "Here we are practicing safe coding"
+      }
+    ]
+  },
+  "version": 1
+}

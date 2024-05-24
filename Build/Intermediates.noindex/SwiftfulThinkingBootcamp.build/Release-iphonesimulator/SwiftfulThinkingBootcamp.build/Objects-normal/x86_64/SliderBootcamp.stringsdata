@@ -1,0 +1,24 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SliderBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rating: "
+      },
+      {
+        "comment": "",
+        "key": "1"
+      },
+      {
+        "comment": "",
+        "key": "5"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      }
+    ]
+  },
+  "version": 1
+}

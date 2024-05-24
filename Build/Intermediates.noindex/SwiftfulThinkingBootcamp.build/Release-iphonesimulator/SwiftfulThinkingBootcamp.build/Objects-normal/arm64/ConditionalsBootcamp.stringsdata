@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ConditionalsBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Show Circle: %@"
+      },
+      {
+        "comment": "",
+        "key": "Show Rectangle: %@"
+      }
+    ]
+  },
+  "version": 1
+}

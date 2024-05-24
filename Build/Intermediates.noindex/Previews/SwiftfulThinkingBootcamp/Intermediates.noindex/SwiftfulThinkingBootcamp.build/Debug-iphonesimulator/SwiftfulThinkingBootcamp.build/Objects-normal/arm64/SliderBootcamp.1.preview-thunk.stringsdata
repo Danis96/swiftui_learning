@@ -1,0 +1,24 @@
+{
+  "source": "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/arm64/SliderBootcamp.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rating: "
+      },
+      {
+        "comment": "",
+        "key": "1"
+      },
+      {
+        "comment": "",
+        "key": "5"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      }
+    ]
+  },
+  "version": 1
+}

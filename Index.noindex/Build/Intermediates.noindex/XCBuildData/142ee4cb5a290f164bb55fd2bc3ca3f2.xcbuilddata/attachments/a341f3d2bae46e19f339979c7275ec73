@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcampUITests.build/Objects-normal/arm64/SwiftfulThinkingBootcampUITests-master.d",
+    "diagnostics" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcampUITests.build/Objects-normal/arm64/SwiftfulThinkingBootcampUITests-master.dia",
+    "emit-module-dependencies" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcampUITests.build/Objects-normal/arm64/SwiftfulThinkingBootcampUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcampUITests.build/Objects-normal/arm64/SwiftfulThinkingBootcampUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Index.noindex/Build/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcampUITests.build/Objects-normal/arm64/SwiftfulThinkingBootcampUITests-master.swiftdeps"
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcampUITests/SwiftfulThinkingBootcampUITests.swift" : {
+
+  },
+  "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcampUITests/SwiftfulThinkingBootcampUITestsLaunchTests.swift" : {
+
+  }
+}

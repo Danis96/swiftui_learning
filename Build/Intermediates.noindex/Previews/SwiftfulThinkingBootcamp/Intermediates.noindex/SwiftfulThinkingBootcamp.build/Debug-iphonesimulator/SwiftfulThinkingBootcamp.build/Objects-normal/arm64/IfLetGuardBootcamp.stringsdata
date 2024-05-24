@@ -1,0 +1,16 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/IfLetGuardBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Safe coding"
+      },
+      {
+        "comment": "",
+        "key": "Here we are practicing safe coding"
+      }
+    ]
+  },
+  "version": 1
+}

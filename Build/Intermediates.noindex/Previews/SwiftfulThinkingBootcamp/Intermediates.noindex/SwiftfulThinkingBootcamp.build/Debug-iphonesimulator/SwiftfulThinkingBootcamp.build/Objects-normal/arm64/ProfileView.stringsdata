@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/OnboardingViews/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "This user is %lld years old"
+      },
+      {
+        "comment": "",
+        "key": "Gender is %@"
+      },
+      {
+        "comment": "",
+        "key": "Sign out"
+      }
+    ]
+  },
+  "version": 1
+}

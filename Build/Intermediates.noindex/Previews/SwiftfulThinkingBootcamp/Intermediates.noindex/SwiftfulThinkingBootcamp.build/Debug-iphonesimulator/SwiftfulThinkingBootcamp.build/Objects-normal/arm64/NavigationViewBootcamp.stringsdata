@@ -1,0 +1,32 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/NavigationViewBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "1st screen"
+      },
+      {
+        "comment": "",
+        "key": "Danis"
+      },
+      {
+        "comment": "",
+        "key": "Click to go to 2nd screen"
+      },
+      {
+        "comment": "",
+        "key": "2nd Screen"
+      },
+      {
+        "comment": "",
+        "key": "2ND SCREEN"
+      },
+      {
+        "comment": "",
+        "key": "Button"
+      }
+    ]
+  },
+  "version": 1
+}

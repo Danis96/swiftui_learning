@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/arm64/StateBootcamp.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Count: %lld"
+      },
+      {
+        "comment": "",
+        "key": "BUTTON 1"
+      },
+      {
+        "comment": "",
+        "key": "BUTTON 2"
+      }
+    ]
+  },
+  "version": 1
+}

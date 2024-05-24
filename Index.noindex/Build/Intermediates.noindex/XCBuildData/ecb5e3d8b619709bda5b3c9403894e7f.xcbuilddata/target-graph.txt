@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp' (no dependencies)
+Target 'SwiftfulThinkingBootcamp' in project 'SwiftfulThinkingBootcamp' (no dependencies)

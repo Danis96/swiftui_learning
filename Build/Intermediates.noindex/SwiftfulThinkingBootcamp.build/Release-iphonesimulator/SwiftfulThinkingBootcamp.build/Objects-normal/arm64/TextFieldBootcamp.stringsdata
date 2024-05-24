@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/TextFieldBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Text Field Bootcamp"
+      },
+      {
+        "comment": "",
+        "key": "Type something here"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      }
+    ]
+  },
+  "version": 1
+}

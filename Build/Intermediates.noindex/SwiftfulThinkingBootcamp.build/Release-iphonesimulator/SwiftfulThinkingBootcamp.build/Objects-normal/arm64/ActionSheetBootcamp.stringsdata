@@ -1,0 +1,40 @@
+{
+  "source": "/Users/danispreldzic/Desktop/SQA/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/SwiftfulThinkingBootcamp/ActionSheetBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "This is the title"
+      },
+      {
+        "comment": "",
+        "key": "Click me"
+      },
+      {
+        "comment": "",
+        "key": "Red"
+      },
+      {
+        "comment": "",
+        "key": "Green"
+      },
+      {
+        "comment": "",
+        "key": "Yellow"
+      },
+      {
+        "comment": "",
+        "key": "Remove color"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "This is the message"
+      }
+    ]
+  },
+  "version": 1
+}

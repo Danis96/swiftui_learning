@@ -1,0 +1,24 @@
+{
+  "source": "/Users/danispreldzic/Library/Developer/Xcode/DerivedData/SwiftfulThinkingBootcamp-gncdqxthlywckbbbpqvpghicqvpm/Build/Intermediates.noindex/Previews/SwiftfulThinkingBootcamp/Intermediates.noindex/SwiftfulThinkingBootcamp.build/Debug-iphonesimulator/SwiftfulThinkingBootcamp.build/Objects-normal/arm64/ListBootcamp.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add"
+      },
+      {
+        "comment": "",
+        "key": "Grocery List"
+      },
+      {
+        "comment": "",
+        "key": "Fruits"
+      },
+      {
+        "comment": "",
+        "key": "Veggies"
+      }
+    ]
+  },
+  "version": 1
+}
